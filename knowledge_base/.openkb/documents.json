@@ -1,0 +1,22 @@
+[
+  {
+    "name": "doc1.md",
+    "path": "knowledge_base\\wiki\\doc1.md",
+    "size": 3097
+  },
+  {
+    "name": "doc2.md",
+    "path": "knowledge_base\\wiki\\doc2.md",
+    "size": 3545
+  },
+  {
+    "name": "how-to-send-a-notification-2026-02-18.pdf",
+    "path": "knowledge_base\\wiki\\how-to-send-a-notification-2026-02-18.md",
+    "size": 4169
+  },
+  {
+    "name": "staff-first-time-setup-2026-02-18.pdf",
+    "path": "knowledge_base\\wiki\\staff-first-time-setup-2026-02-18.md",
+    "size": 4028
+  }
+]
